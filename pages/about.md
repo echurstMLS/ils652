@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-The content and subject matter of this collection is drawn largely from a 2019 IU Archives exhibit, "An Army of Lovers Cannot Be Conquered": Examining the History of LGBTQ Life in Bloomington. Then-graduate assistant Kennedy Jones cataloged and curated historical materials relating to LGBTQ life in Bloomington dating back as early as the 1960s. This digital collection represents the early stages of digitizing these materials for further documentation of local LGBTQ life, a task with growing urgency given both state and national anti-LGBTQ politics.
+The content and subject matter of this collection is drawn largely from a 2019 IU Archives exhibit, *"An Army of Lovers Cannot Be Conquered": Examining the History of LGBTQ Life in Bloomington*. Then-graduate assistant Kennedy Jones cataloged and curated historical materials relating to LGBTQ life in Bloomington dating back as early as the 1960s. This digital collection represents the early stages of digitizing these materials for further documentation of local LGBTQ life, a task with growing urgency given both state and national anti-LGBTQ politics.
 
 The materials digitized here consist largely of newspaper articles from Bloomington and IU-affiliated publications, as well as a few selections of programming materials from LGBTQ-aligned groups and spaces. This selection of materials spans from 1971 to 2004. All materials digitized here are in posession of the Indiana University-Bloomington University Archives, used expressly for educational purposes for the Digital Libraries graduate course. 
 
@@ -27,5 +27,4 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
