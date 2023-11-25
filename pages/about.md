@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://echurstmls.github.io/ils652/objects/aol031.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 The content and subject matter of this collection is drawn largely from a 2019 IU Archives exhibit, *"An Army of Lovers Cannot Be Conquered": Examining the History of LGBTQ Life in Bloomington*. Then-graduate assistant Kennedy Jones cataloged and curated historical materials relating to LGBTQ life in Bloomington dating back as early as the 1960s. This digital collection represents the early stages of digitizing these materials for further documentation of local LGBTQ life, a task with growing urgency given both state and national anti-LGBTQ politics.
