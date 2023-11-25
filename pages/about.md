@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://echurstmls.github.io/ils652/objects/aol031.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
@@ -18,7 +18,6 @@ The content and subject matter of this collection is drawn largely from a 2019 I
 
 The materials digitized here consist largely of newspaper articles from Bloomington and IU-affiliated publications, as well as a few selections of programming materials from LGBTQ-aligned groups and spaces. This selection of materials spans from 1971 to 2004. All materials digitized here are in posession of the Indiana University-Bloomington University Archives, used expressly for educational purposes for the Digital Libraries graduate course. 
 
-INSERT RIGHTS STATEMENTS
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
